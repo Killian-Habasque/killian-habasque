@@ -1,4 +1,4 @@
-<p align="center"><img src="https://killian-habasque.fr/images/favicom.png" alt="Logo" /></p>
+<p align="center"><img src="https://killian-habasque.fr/logo_white.svg" alt="Logo" /></p>
 
 <!--
 **Killian-Habasque/killian-habasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
